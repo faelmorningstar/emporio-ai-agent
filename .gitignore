@@ -218,3 +218,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local secrets and environment variants
+.env.*
+!.env.example
+secrets/
+credentials/
+*.pem
+*.key
+
+# Temporary and editor files
+tmp/
+temp/
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
