@@ -1,1 +1,1 @@
-"""Futuros serviços e acesso aos dados."""
+"""Serviços e acesso aos dados do catálogo."""

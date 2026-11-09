@@ -236,3 +236,7 @@ temp/
 *.swo
 *~
 .DS_Store
+
+# Catálogo fornecido para o desafio: não publicar
+/data/*
+!/data/.gitkeep
